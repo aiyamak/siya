@@ -1,7 +1,7 @@
 ﻿#!/bin/bash
-# hackvoice v 1.0
-# coded by: github.com/SHA2WAKER/hackvoice
-# Telegram: T.ME/OPTAX
+# hackvoice v 1.2
+# coded by:t.me/s0013
+# Telegram: t.me/uciranir
 trap 'printf "\n";stop' 2
 
 banner() {
@@ -11,9 +11,9 @@ printf "\e[1;92m ℍ𝕒𝕔𝕜 𝕞𝕚𝕔𝕣𝕠𝕡𝕙𝕠𝕟𝕖 𝕓�
 printf "\e[1;92m                  \e[0m\n"
 
 
-printf "\e[1;77m v1.0 coded by github.com/SHA2WAKER/hackvoice\e[0m \n"
+printf "\e[1;77m v1.0 coded by t.me/s0013\e[0m \n"
 
-printf " Telegram: T.ME/OPTAX\n"
+printf " Telegram: T.ME/uciranir\n"
 
 
 }
