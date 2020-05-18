@@ -1,6 +1,6 @@
 ﻿# hackvoice
 هک میکروفون گوشی با ارسال لینک - Hack microphone by sending link            
-<a href="https://t.me/optax"><h2>T.ME/optax<h2></a>
+<a href="https://t.me/s0013"><h2>T.ME/s0013<h2></a>
 کد های اجرا در ترموکس :
 <pre><code>
 <br>
